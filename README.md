@@ -7,7 +7,8 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+](https://www.credly.com/badges/6c0318bc-fd8f-4a07-9bcd-88b534e86308/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/bc5ca476-d23a-4b46-8b7d-3775fec17b71/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
