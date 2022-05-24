@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/KodyTerrell/Active-Directory-Home-Lab)
+- [JWipe - Disk Sanitization](https://github.com/KodyTerrell/JWipe - Disk Sanitization)
 
 <h2>📄 Certifications</h2>
 
