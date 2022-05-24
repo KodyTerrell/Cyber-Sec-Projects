@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [JWipe - Disk Sanitization](https://github.com/KodyTerrell/JWipe - Disk Sanitization)
+- [JWipe - Disk Sanitization]([https://github.com/KodyTerrell/JWipe - Disk Sanitization]
 
 <h2>📄 Certifications</h2>
 
