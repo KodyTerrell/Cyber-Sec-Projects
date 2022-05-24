@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [JWipe - Disk Sanitization](https://github.com/KodyTerrell/JWipe-Disk-Sanitization)
+- [Active Directory Bulk User Creation](https://github.com/KodyTerrell/AcitveDirectoryHomeLab.ps)
 
 <h2>📄 Certifications</h2>
 
