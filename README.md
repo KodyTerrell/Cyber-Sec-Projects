@@ -10,7 +10,7 @@
 
 <h2>IT Tutorials</h2>
 
- - [Create a Bootable Windows10 USB](https://github.com/KodyTerrell/Create-a-Windows-10-Bootable-USB-on-ChromeOs.git)
+ - [Create a Bootable Windows10 USB on ChromeOS](https://github.com/KodyTerrell/Create-a-Windows-10-Bootable-USB-on-ChromeOs.git)
 
 
 <h2>📄 Certifications</h2>
