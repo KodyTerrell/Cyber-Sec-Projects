@@ -1,5 +1,9 @@
-<h1>Hi, I'm Kody! </h1>
+<h1>Hi, I'm Kody! <br />
+[Engineer](https://www.linkedin.com/in/kody-whitehead-70939a19b/)
+ 
+</h1>
 
+ 
 <h2>👨‍💻 Software Development Projects</h2>
 
 
