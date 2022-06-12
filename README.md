@@ -8,6 +8,7 @@
 - [Disk Sanitization](https://github.com/KodyTerrell/JWipe-Disk-Sanitization)
 - [Active Directory Bulk User Creation](https://github.com/KodyTerrell/AcitveDirectoryHomeLab.ps)
 
+<h4>[Create a Windows 10 Bootable USB on ChromeOS](</h4>
 
 
 <h2>📄 Certifications</h2>
@@ -22,7 +23,4 @@
 [<img align="left" alt="KodyW | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kody-whitehead-70939a19b/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
