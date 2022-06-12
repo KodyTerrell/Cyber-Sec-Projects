@@ -8,7 +8,9 @@
 - [Disk Sanitization](https://github.com/KodyTerrell/JWipe-Disk-Sanitization)
 - [Active Directory Bulk User Creation](https://github.com/KodyTerrell/AcitveDirectoryHomeLab.ps)
 
-<h4>[Create a Windows 10 Bootable USB on ChromeOS](</h4>
+<h2>IT Tutorials</h2>
+
+ - [Create a Bootable Windows10 USB](https://github.com/KodyTerrell/Create-a-Windows-10-Bootable-USB-on-ChromeOs.git)
 
 
 <h2>📄 Certifications</h2>
