@@ -1,9 +1,14 @@
 <h1>Hi, I'm Kody! </h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
+
+
+<h4>PowerShell</h4>
 
 - [Disk Sanitization](https://github.com/KodyTerrell/JWipe-Disk-Sanitization)
 - [Active Directory Bulk User Creation](https://github.com/KodyTerrell/AcitveDirectoryHomeLab.ps)
+
+
 
 <h2>📄 Certifications</h2>
 
