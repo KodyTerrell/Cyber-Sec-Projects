@@ -11,7 +11,7 @@
 - [Disk Sanitization](https://github.com/KodyTerrell/JWipe-Disk-Sanitization)
 - [Active Directory Bulk User Creation](https://github.com/KodyTerrell/AcitveDirectoryHomeLab.ps)
 
-<h2>IT Tutorials</h2>
+<h2>Tutorials</h2>
 
  - [Create a Bootable Windows10 USB on ChromeOS](https://github.com/KodyTerrell/Create-a-Windows-10-Bootable-USB-on-ChromeOs.git)
 
