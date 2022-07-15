@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kody! <br />
-<a href="https://www.linkedin.com/in/kody-whitehead-70939a19b/"> IT Professional </a> <a href="https://www.linkedin.com/in/kody-whitehead-70939a19b/"> Engineer </a>
+<a href="https://www.linkedin.com/in/kody-whitehead-70939a19b/"> IT Professional </a>, <a href="https://www.linkedin.com/in/kody-whitehead-70939a19b/"> Engineer </a>
  
 
  
