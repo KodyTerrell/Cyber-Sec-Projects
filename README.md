@@ -32,7 +32,7 @@
  
  
 [linkedin]: https://www.linkedin.com/in/kody-whitehead-70939a19b/ 
-[youtube]: https://www.youtube.com/techkody
+[youtube]: https://www.youtube.com/@TechKody
 [instagram]: https://www.instagram.com/techwithkody/ 
 
 
